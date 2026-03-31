@@ -1,7 +1,7 @@
 >
 <!-- SOCIALS -->
 <p align="center">
-  <h1> Social handels </h1>
+  <h1 align="center"> Social handels </h1>
   <a href="https://instagram.com/_burhanuddin.m_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+
 
 <!-- TECH STACK -->
 <h1 align="center"> Tech Stack</h1>
@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
 
 <!-- GITHUB STATS -->
 <h2 align="center">GitHub Stats</h2>
@@ -67,8 +66,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-core&theme=dark&hide_border=true&layout=compact" />
 </p>
-
----
 
 
 <!-- QUOTE -->
