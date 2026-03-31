@@ -1,19 +1,7 @@
-
-<p align="center">
-  <a href="https://instagram.com/_burhanuddin.m_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/burhanuddin-gulamali-107a5b281/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:brhnmohd05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+>
 <!-- SOCIALS -->
 <p align="center">
+  <h1> Social handels </h1>
   <a href="https://instagram.com/_burhanuddin.m_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -30,7 +18,7 @@
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">💻 Tech Stack</h2>
+<h1 align="center"> Tech Stack</h1>
 
 <p align="center">
   <!-- Languages -->
@@ -70,7 +58,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burhan-core&theme=dark&hide_border=true" />
@@ -82,25 +70,11 @@
 
 ---
 
-<!-- TROPHIES -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=burhan-core&theme=dark&no-frame=true&margin-w=10" />
-</p>
-
----
 
 <!-- QUOTE -->
-<h3 align="center">💭 Dev Wisdom</h3>
+<h3 align="center"> Dev Wisdom</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-<!-- VISITOR -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=burhan-core&icon=0&color=0"/>
-</p>
